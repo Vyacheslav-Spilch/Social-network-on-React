@@ -1,0 +1,13 @@
+.MyPost {
+    /* border: 2px solid red; */
+    height: 300px;
+}
+.container {
+    grid-area: c;
+    border-radius: 5px;
+    /* border: 2px solid yellow; */
+}
+.MyPost img {
+    width: 40%;
+    height: 180px;
+}

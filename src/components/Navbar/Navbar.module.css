@@ -1,8 +1,8 @@
 .navigation {
     grid-area: n;
-    height: 300px;
+    height: 500px;
     background-color:   rgba(138, 49, 202, 0.818);
-    border-radius: 5px;
+    border-radius: 10px;
 }
 .navigation div {
     margin: 10px;

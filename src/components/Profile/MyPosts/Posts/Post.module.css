@@ -1,0 +1,13 @@
+.post {
+    /* border: 2px solid blue; */
+}
+.item {
+    color: #fff;
+    font-size: 14px;
+    margin: 20px;
+}
+.item img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}

@@ -1,4 +1,4 @@
-.app {
+.app-wrapper {
   display: grid;
   grid-template-areas: 
   "h h"
@@ -6,10 +6,15 @@
   grid-template-rows: 140px 1fr;
   grid-template-columns: 2fr 8fr;
   margin: 40px;
-  grid-gap: 25px 10px;
+  grid-gap: 15px 10px;
   color: #fff;
 }
 .header img {
   width: 120px;
   height: 120px;
+}
+.page-wrapper {
+  background-color: rgba(138, 49, 202, 0.818);
+  height: 500px;
+  border-radius: 10px;
 }
